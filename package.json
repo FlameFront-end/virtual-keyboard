@@ -1,5 +1,5 @@
 {
-  "name": "gulp-start",
+  "name": "virtual-keyboard",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "gulp build",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Vadym Prokopchuk",
+  "author": "FlameFront-end",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.13",
